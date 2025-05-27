@@ -3,7 +3,7 @@ Batata
 
 [![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/5hBDT2P)
 
-If you fork this you can say that you forked a potato.
+Se você bifurcar isso, você poderá dizer que tem uma Batata Bifurcada. 
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
