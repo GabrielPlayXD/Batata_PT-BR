@@ -2,7 +2,7 @@ Batata
 ======
 
 Notas:
- Essa Batata esmagada tem o objetivo de ser uma imigrante no Brasil, tornando ela uma residente brasileira. Então assim teremos uma Batata Esmagada Imigrante do Brasil :D
+ Essa Batata esmagada tem o objetivo de ser uma imigrante no Brasil, tornando ela uma residente brasileira. Então agora temos uma Batata Esmagada Imigrante no Brasil :D
 
 ======
 
