@@ -2,13 +2,13 @@ Batata
 ======
 
 Notas:
- Essa Batata bifurcada tem o objetivo de ser imigrante do Brasil, tornando ela uma residente brasileira. Então assim teremos uma Batata Bifurgada Imigrante do Brasil :D
+ Essa Batata esmagada tem o objetivo de ser imigrante do Brasil, tornando ela uma residente brasileira. Então assim teremos uma Batata Bifurgada Imigrante do Brasil :D
 
 ======
 
 [![Discord](https://i.imgur.com/HLPoNnY.png)](https://discord.gg/5hBDT2P)
 
-Se você bifurcar isso, você poderá dizer que tem uma Batata Bifurcada. 
+Se você esmagar isso, você poderá dizer que tem uma Batata esmagada. 
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
@@ -38,13 +38,14 @@ Você também pode fazer parte dessa tradição milenar e espetar batatas com um
 Pull Requests
 -------------
 
-If you have forked the potato and are looking to submit a pull request, please adhere to the following rules.
+Se você possuí uma batata espetada/bifurcada e está querendo lançar um pull request, por favor siga as regras a baixo.
 
-- Our potato is lightweight, and it doesn't need non-potato-related items.
-- If you are adding code to the potato, please follow the lightweight mantra (no * imports, etc.).
-- Make sure that your code compiles and runs, if you are changing code.
-- Please format your code.
-- Our potato is a mainstream potato; it doesn't enjoy being full of obscure code/references (not a hipster potato).
-- Please "mash your potatoes" (squash your PRs with interactive rebase).
-- If a comment inquiring for more information is made on your PR, a reply is expected within a week. The request will be closed if not.
-- To stress: **no non-potato-related items**.
+- Nossa batata é fitness, e não precisa de itens não relacionados a uma batata.
+- Se você estiver adicionando código à batata, siga o mantra da leveza (nada de * imports, etc.).
+- Faça seu codigo e certifique-se que e funciona de forma adequada e plena.
+- Por favor deixe seu codigo formatado.
+- Nossa batata é uma batata tradicional; ela não gosta de estar cheia de código obscuros ou referências esotéricas (ela não é uma batata hipster).
+- Por favor, "amasse suas batatas" (faça squash dos seus PRs com interactive rebase).
+- Se em um comment inquiring mais informações forem solicitadas na sua PR, espera-se uma resposta em até uma semana. A solicitação será fechada caso contrário.
+- Ressaltando: **Sem itens que não se relacionam com batatas**
+-Lembre-se que se você for contribuir para esse projeto, faça-o em inglês, já que os criadores desse projeto possivelmente não falam português.
