@@ -24,7 +24,7 @@ Após sua introdução na China, perto do final da dinastia Ming, no século XVI
 
 Na época em que as batatas foram introduzidas na Europa, o garfo já era comumente utilizado. Assim, surgiu a tradição de espetar garfos nas batatas
 
-" Denovo resalto que a piada não faz sentido algum no português, quem que escreveu essas piadas sem graça cara > - > "
+" De novo resdalto que a piada não faz sentido algum no português. Quem que escreveu essas piadas sem graça cara > - > "
 
 
 
