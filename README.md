@@ -48,5 +48,4 @@ Se você possuí uma batata espetada/bifurcada e está querendo lançar um pull 
 - Por favor, "amasse suas batatas" (faça squash dos seus PRs com interactive rebase).
 - Se em um comment inquiring mais informações forem solicitadas na sua PR, espera-se uma resposta em até uma semana. A solicitação será fechada caso contrário.
 - Ressaltando: **Sem itens que não se relacionam com batatas**
-
 -Lembre-se que se você for contribuir para esse projeto, faça-o em inglês, já que os criadores desse projeto possivelmente não falam português.
