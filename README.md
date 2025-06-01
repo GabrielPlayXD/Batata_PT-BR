@@ -22,13 +22,16 @@ A batata teve sua primeira aparição no Perú há mais o menos dez mil anos atr
 
 Após sua introdução na China, perto do final da dinastia Ming, no século XVII, a batata se tornou imediatamente uma celebridade na família imperial.
 
-Na época em que as batatas foram introduzidas na Europa, o garfo já era comumente consumida. Assim, surgiu a tradição de espetar garfos nas batatas
+Na época em que as batatas foram introduzidas na Europa, o garfo já era comumente utilizado. Assim, surgiu a tradição de espetar garfos nas batatas
 
 " Denovo resalto que a piada não faz sentido algum no português, quem que escreveu essas piadas sem graça cara > - > "
 
 
+
 A falta de direitos igualitários para as batatas levou à disseminação de uma doença entre elas e colocou em risco a tradição de espetar garfos nas batatas na Irlanda. Felizmente, em outros lugares do planeta as batatas se mantiveram saudáveis, gostosas e diversificadas, e assim a tradição continuou firme e forte.
+
 " Achei engraçado mencionar que enquanto traduzia a parte de espetar batatas, meu pai troxe batata recheada da festa que ele foi "
+
 
 Você também pode fazer parte dessa tradição milenar e espetar batatas com um garfo na era das maquinas clicando no botão acima chamado "Bifurcar"
 
