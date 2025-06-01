@@ -13,6 +13,7 @@ Se você bifurcar isso, você poderá dizer que tem uma Batata Bifurcada.
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
 Espetar(Forking em inglês) é uma tradição ancestral e sofisticada
+
 " Não tem tanta graça quando importamos essa piada :/ "
 
 
@@ -22,6 +23,7 @@ A batata teve sua primeira aparição no Perú há mais o menos dez mil anos atr
 Após sua introdução na China, perto do final da dinastia Ming, no século XVII, a batata se tornou imediatamente uma celebridade na família imperial.
 
 Na época em que as batatas foram introduzidas na Europa, o garfo já era comumente consumida. Assim, surgiu a tradição de espetar garfos nas batatas
+
 " Denovo resalto que a piada não faz sentido algum no português, quem que escreveu essas piadas sem graça cara > - > "
 
 
