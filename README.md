@@ -6,7 +6,7 @@ Notas:
 
 -------------
 
-=Abaixo, um resumo conciso que contempla todas as 15 partes destacadas (já que são 15 trechos destacados no PDF), organizadas em tópicos para não omitir nenhuma ideia:
+Abaixo, um resumo conciso que contempla todas as 15 partes destacadas (já que são 15 trechos destacados no PDF), organizadas em tópicos para não omitir nenhuma ideia:
 
 1. Inserção cotidiana na cultura escrita
 
